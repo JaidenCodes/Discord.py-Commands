@@ -1,1 +1,1 @@
-# Discord.py-Commands
+# Discord.py-cog-examples
